@@ -36,7 +36,7 @@ module.exports = {
       {
         // CSS处理
         test: /\.(sc|sa|c)ss$/,
-        use: [MiniCssExtractPlugin.loader, 'postcss-loader', 'sass-loader', 'css-loader']
+        use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader', 'postcss-loader']
       },
       {
         // 图片处理

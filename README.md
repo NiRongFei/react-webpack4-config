@@ -1,3 +1,3 @@
-# react-webpack4-cook
+# react-webpack4-config
 
-### Webpack4 initialize config for react project.
+### Webpack4 config for react project.
